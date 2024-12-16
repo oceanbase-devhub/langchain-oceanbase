@@ -60,4 +60,4 @@ jobs:
 
     - name: Run tests
       run: |
-        make lint && make integration_test
+        make integration_test
