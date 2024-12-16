@@ -1,6 +1,6 @@
 # langchain-oceanbase
 
-This package contains the LangChain integration with Oceanbase.
+This package contains the LangChain integration with OceanBase.
 
 [OceanBase Database](https://github.com/oceanbase/oceanbase) is a distributed relational database. 
 It is developed entirely by Ant Group. The OceanBase Database is built on a common server cluster. 
